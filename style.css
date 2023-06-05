@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #5055f7;
+  .orange{
+    color:#ffae00
+  }
+  .white{
+    color:white
+  }
+}
